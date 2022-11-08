@@ -133,6 +133,10 @@ aside > ul{
     list-style-position: inside;
     columns: 2;
 }
+aside > strong{
+    color: var(--cor6);
+    font-weight: bold;
+}
 abbr{
     text-decoration: none;
 }
